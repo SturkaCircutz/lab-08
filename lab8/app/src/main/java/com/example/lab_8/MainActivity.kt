@@ -43,6 +43,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     Lab8Theme {
         Greeting("Android")
-        new
+        "new"
     }
 }
